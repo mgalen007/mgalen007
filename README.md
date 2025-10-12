@@ -3,3 +3,4 @@
 
 ## ⚡ Projects
 - Carbon mOD🌍 – turning waste into wealth.
+[![Naereen's github trophy](https://github-profile-trophy.vercel.app/?username=Naereen&row=1)](https://github.com/ryo-ma/github-profile-trophy)
