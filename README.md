@@ -35,4 +35,10 @@ Currently leveling up my backend skills and diving deeper into intelligent workf
 
 [![Codewars](https://www.codewars.com/users/HyllusX/badges/large)](https://www.codewars.com/users/HyllusX)
 
+### **Top languages used**
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgalen007)](...)
+``` :contentReference[oaicite:4]{index=4}  
+
+
 ----
