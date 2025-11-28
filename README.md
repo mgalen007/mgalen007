@@ -37,8 +37,7 @@ Currently leveling up my backend skills and diving deeper into intelligent workf
 
 ### **Top languages used**
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mgalen007)](...)
-``` :contentReference[oaicite:4]{index=4}  
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgalen007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 
 ----
