@@ -1,4 +1,4 @@
-# Hello there, I'm **Mike** 👋
+# Hey there, I'm **Mike** 👋
 ---
 
 Passionate about building things that automate, simplify, and scale.
