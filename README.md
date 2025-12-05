@@ -41,9 +41,7 @@ Currently leveling up my backend skills and diving deeper into intelligent workf
 
 [![Codewars](https://www.codewars.com/users/HyllusX/badges/large)](https://www.codewars.com/users/HyllusX)
 
-### **Top languages used**
+## 📊 GitHub Stats
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mgalen007&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
-
-
+![Metrics](./github-metrics.svg)
 ----
