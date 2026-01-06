@@ -2,8 +2,8 @@
 ---
 
 Passionate about building things that automate, simplify, and scale.
-I work with **Python**, **JavaScript**, **Bash**, **C**, and **PHP**, with a strong interest in **backend engineering** and **AI-powered automation**.
-Currently leveling up my backend skills and diving deeper into intelligent workflow automation. I am a cybersecurity enthusiast😁. 
+I work with **Python**, **JavaScript**, **TypeScript**, **Node.js**, and **PHP**, with a strong interest in **full-stack web development** and **Cybersecurity**.
+Currently leveling up my backend skills and diving deeper into web application security. 
 
 ---
 
@@ -13,9 +13,9 @@ Currently leveling up my backend skills and diving deeper into intelligent workf
 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge\&logo=python\&logoColor=ffdd54)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge\&logo=javascript\&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/typescript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
+![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
-![Bash](https://img.shields.io/badge/Bash_Script-121011?style=for-the-badge\&logo=gnu-bash\&logoColor=white)
 
 ### **Web & Styling**
 
