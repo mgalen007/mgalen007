@@ -3,7 +3,7 @@
 
 Passionate about building things that automate, simplify, and scale.
 I work with **Python**, **JavaScript**, **Bash**, **C**, and **PHP**, with a strong interest in **backend engineering** and **AI-powered automation**.
-Currently leveling up my backend skills and diving deeper into intelligent workflow automation. I am a cybersecurity enthusiast😁. 
+Currently leveling up my frontend skills with React + TailwindCSS and diving deeper into intelligent workflow automation. I am a cybersecurity enthusiast😁. 
 
 ---
 
