@@ -3,7 +3,7 @@
 
 Passionate about building things that automate, simplify, and scale.
 I work with **Python**, **JavaScript**, **TypeScript**, **Node.js**, and **PHP**, with a strong interest in **full-stack web development** and **Cybersecurity**.
-Currently leveling up my frontend skills and diving deeper into web application security. 
+Currently leveling up my frontend skills with React + Tailwind, and diving deeper into web application security. 
 
 ---
 
