@@ -1,7 +1,7 @@
 # Hey there, I'm **Mike** 👋
 ---
 
-Passionate about creating innovative solutions that **automate**, **simplify**, and **scale**. I specialize in **Python**, **JavaScript**, **TypeScript**, **Node.js**, **C**, and **PHP**, with deep interests in **full-stack web development**, **cybersecurity**, and **robotics & embedded systems** with **Arduino**. Currently building exciting full-stack projects, ... 
+Passionate about creating innovative solutions that **automate**, **simplify**, and **scale**. I specialize in **Python**, **JavaScript**, **TypeScript**, **Node.js**, **C**, and **PHP**, with deep interests in **full-stack web development**, **cybersecurity**, and **robotics & embedded systems** with **Arduino**. Currently building exciting full-stack projects with **React** + **TypeScript** + **Express**. 
 
 ---
 
