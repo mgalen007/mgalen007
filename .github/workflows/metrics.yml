@@ -1,25 +1,42 @@
 name: Metrics
+
 on:
-  schedule: [{cron: "0 0 * * *"}]
+  schedule:
+    - cron: "0 0 * * *"
   workflow_dispatch:
-  push: {branches: ["main", "master"]}
+  push:
+    branches:
+      - main
+      - master
 
 jobs:
   github-metrics:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
-      - uses: lowlighter/metrics@latest
+      - uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN }}
+
+          # Target user
           user: mgalen007
-          
+
+          # Output
+          filename: github-metrics.svg
+          output_action: commit
+          committer_branch: main
+          committer_message: "chore: update metrics [skip ci]"
+
+          # Base — disable default sections, use plugins only
           base: ""
-          
+
+          # Languages plugin
           plugin_languages: yes
           plugin_languages_limit: 8
           plugin_languages_sections: most-used
           plugin_languages_colors: github
-          plugin_languages_threshold: 0%
-          plugin_languages_details: percentage  # ← This adds percentages!
+          plugin_languages_threshold: 1%
+          plugin_languages_details: percentage
+          plugin_languages_ignored: html, css  # optional: filter noise
