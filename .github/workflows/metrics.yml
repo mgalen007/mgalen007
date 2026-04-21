@@ -39,4 +39,3 @@ jobs:
           plugin_languages_colors: github
           plugin_languages_threshold: 1%
           plugin_languages_details: percentage
-          plugin_languages_ignored: html, css  # optional: filter noise
