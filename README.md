@@ -1,4 +1,4 @@
-# Hey there, I'm **Galen** 👋
+# Backend developer - AI Engineer - Penetration Tester** 👋
 ---
 
 Passionate about creating innovative solutions that **automate**, **simplify**, and **scale**. I specialize in **TypeScript**, **Python**, **JavaScript**, **Node.js**, **C**, and **PHP**, with deep interests in **AI Engineering**, **full-stack web development**, **cybersecurity**, and **robotics**. Currently building robust backend systems with **NestJS** 💪
