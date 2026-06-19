@@ -1,7 +1,7 @@
-# Backend developer - AI Engineer - Penetration Tester** 👋
+# Backend developer - AI Engineer - Penetration Tester
 ---
 
-Passionate about creating innovative solutions that **automate**, **simplify**, and **scale**. I specialize in **TypeScript**, **Python**, **JavaScript**, **Node.js**, **C**, and **PHP**, with deep interests in **AI Engineering**, **full-stack web development**, **cybersecurity**, and **robotics**. Currently building robust backend systems with **NestJS** 💪
+Passionate about creating innovative solutions that **automate**, **simplify**, and **scale**. I specialize in **TypeScript**, **Python**, **JavaScript**, **Node.js**, **C**, and **PHP**, with deep interests in **AI Engineering**, **full-stack web development**, **cybersecurity**, and **robotics**. Currently building production-ready agentic workflows with PydanticAI.
 
 ---
 
@@ -29,6 +29,14 @@ Passionate about creating innovative solutions that **automate**, **simplify**, 
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
+### **AI Engineering**
+![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+
+### **Cybersecurity**
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
 ### **Frameworks**
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB&color=2E2E2E)
