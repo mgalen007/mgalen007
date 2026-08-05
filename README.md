@@ -1,7 +1,7 @@
 # Backend developer - AI Engineer - Penetration Tester
 ---
 
-Passionate about creating innovative solutions that **automate**, **simplify**, and **scale**. I specialize in **TypeScript**, **Python**, **JavaScript**, **Node.js**, **C**, and **PHP**, with deep interests in **AI Engineering**, **full-stack web development**, **cybersecurity**, and **robotics**. Currently building production-ready agentic workflows with PydanticAI.
+Passionate about creating innovative solutions that **automate**, **simplify**, and **scale**. I specialize in **TypeScript**, **Python**, **JavaScript**, **Node.js**, **C**, and **PHP**, with deep in[...]
 
 ---
 
@@ -11,6 +11,7 @@ Passionate about creating innovative solutions that **automate**, **simplify**, 
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -26,8 +27,9 @@ Passionate about creating innovative solutions that **automate**, **simplify**, 
 ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white&color=2E2E2E)
 ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23007396.svg?style=for-the-badge&logo=java&logoColor=white)
 ![Node.js](https://img.shields.io/badge/node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ### **AI Engineering**
 ![PydanticAI](https://img.shields.io/badge/PydanticAI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
