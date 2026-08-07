@@ -18,7 +18,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@v3.34
         with:
-          token: ${{ secrets.METRICS_TOKEN }}
+          token: ${{ secrets.METRICS_TOKEN_2 }}
 
           # Target user
           user: mgalen007
