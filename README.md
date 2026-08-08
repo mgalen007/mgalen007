@@ -14,6 +14,9 @@ My focus is on building secure, robust, scalable and intelligent systems that do
 ### **Databases**
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
 
+### **Frontend**
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,html,css&theme=dark" />
+
 ### **AI Engineering**
 <img src="https://cdn.simpleicons.org/pydantic" width="48" title="PydanticAI"/>    <img src="https://cdn.simpleicons.org/googlegemini" width="48" title="Gemini AI SDK"/>
 
@@ -22,7 +25,6 @@ My focus is on building secure, robust, scalable and intelligent systems that do
 
 ### **Tools**
 <img src="https://skillicons.dev/icons?i=git,github,vscode,idea,ubuntu,postman,redis&theme=dark" />
-<img src="https://cdn.simpleicons.org/kalilinux" width="48" title="Kali Linux"/>
 
 ---
 
