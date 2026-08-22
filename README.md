@@ -6,7 +6,7 @@ My focus is on building secure, robust, scalable and intelligent systems that do
 ## Tech Stack
 
 ### **Languages**
-<img src="https://skillicons.dev/icons?i=ts,python,java,cpp,php,js,c&theme=dark" />
+<img src="https://skillicons.dev/icons?i=ts,python,java,cpp,go,php,js,c&theme=dark" />
 
 ### **Backend & APIs**
 <img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs,flask&theme=dark" />
