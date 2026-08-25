@@ -20,11 +20,16 @@ My focus is on building secure, robust, scalable and intelligent systems that do
 ### **AI Engineering**
 <img src="https://cdn.simpleicons.org/pydantic" width="48" title="PydanticAI"/>    <img src="https://cdn.simpleicons.org/googlegemini" width="48" title="Gemini AI SDK"/>
 
+### **Machine Learning**
+<img src="https://skillicons.dev/icons?i=sklearn&theme=dark" /> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original.svg" height="48" title="Pandas"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original.svg" height="48" title="NumPy"/>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original.svg" height="48" title="Matplotlib"/>
+
 ### **DevOps**
 <img src="https://skillicons.dev/icons?i=docker,githubactions&theme=dark" />
 
 ### **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,vscode,idea,ubuntu,postman,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,bun,zed,vscode,idea,ubuntu,postman,redis&theme=dark" />
 
 ---
 
