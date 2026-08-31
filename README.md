@@ -9,7 +9,7 @@ My focus is on building secure, robust, scalable and intelligent systems that do
 <img src="https://skillicons.dev/icons?i=ts,python,java,go,cpp,php,js,c&theme=dark" />
 
 ### **Backend & APIs**
-<img src="https://skillicons.dev/icons?i=nestjs,fastapi,express,nodejs,flask&theme=dark" />
+<img src="https://skillicons.dev/icons?i=nestjs,fastapi,spring,express,nodejs,flask&theme=dark" />
 
 ### **Databases**
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql&theme=dark" />
@@ -29,7 +29,7 @@ My focus is on building secure, robust, scalable and intelligent systems that do
 <img src="https://skillicons.dev/icons?i=docker,githubactions&theme=dark" />
 
 ### **Tools**
-<img src="https://skillicons.dev/icons?i=git,github,bun,zed,vscode,idea,ubuntu,postman,redis&theme=dark" />
+<img src="https://skillicons.dev/icons?i=git,github,bun,maven,vscode,idea,ubuntu,postman,redis&theme=dark" />
 
 ---
 
